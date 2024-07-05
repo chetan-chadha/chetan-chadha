@@ -1,6 +1,4 @@
-<div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
-</div>
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Chetan Chadha</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/chetan-chadha?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/chetan-chadha?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=chetan-chadha.repoName) <img src="https://komarev.com/ghpvc/?username=chetan-chadha" alt="chetan-chadha" />
@@ -8,8 +6,8 @@
 ## About Me :
 
 - 🏢 I am currently working as a **Senior Software Engineer** at [Lumel Technologies](https://lumel.com/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
+- 🏢 Former **Software Engineer** at [Curl Analytics](https://curl.tech/)
+- 🎓 Studies for Electronics and Communications at [Chandigarh Engineering College](https://cgc.edu.in/)
 - 🏡'Lives in **Delhi**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
@@ -57,7 +55,7 @@
 
 <br>
 
-[![Chetan's github activity graph](https://activity-graph.herokuapp.com/graph?username=chetan-chadha&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/chetan-chadha/github-readme-activity-graph)
+[![Chetan's github activity graph](https://activity-graph.herokuapp.com/graph?username=chetan-chadha&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/WinterWolf97/github-readme-stats)
 
 ---
 
