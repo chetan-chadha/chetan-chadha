@@ -1,7 +1,7 @@
 <div align="center" width="50">
     <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anushka Wijegoonawardana</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Chetan Chadha</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/chetan-chadha?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/chetan-chadha?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=chetan-chadha.repoName) <img src="https://komarev.com/ghpvc/?username=chetan-chadha" alt="chetan-chadha" />
 
@@ -19,7 +19,7 @@
 
 <br>
 
-[![@chetan-chadha](https://img.icons8.com/fluency/48/000000/instagram-new.png "@chetan-chadha")](https://www.instagram.com/chetan-chadha/) [![@chetan-chadha](https://img.icons8.com/fluency/48/000000/facebook.png "@chetan-chadha")](https://www.facebook.com/chetan-chadha) [![@chetan-chadha](https://img.icons8.com/fluency/48/000000/linkedin.png "@chetan-chadha")](https://www.linkedin.com/in/chetan-chadha/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+[![@chetan-chadha](https://img.icons8.com/fluency/48/000000/instagram-new.png "@chetan-chadha")](https://www.instagram.com/chetan-chadha/) [![@chetan-chadha](https://img.icons8.com/fluency/48/000000/facebook.png "@chetan-chadha")](https://www.facebook.com/chetan-chadha) [![@chetan-chadha](https://img.icons8.com/fluency/48/000000/linkedin.png "@chetan-chadha")](https://www.linkedin.com/in/chetan-chadha/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@8699817178")](tel:8699817178) [![@chetanchadha1234@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](chetanchadha1234@gmail.com)
 
 <br>
 
@@ -41,7 +41,7 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chetan-chadha&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![chetan-chadha GitHub stats](https://github-readme-stats.vercel.app/api?username=chetan-chadha&theme=algolia)](https://github.com/chetan-chadha/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-chadha&theme=algolia)](https://github.com/chetan-chadha/github-readme-stats) [![chetan-chadha wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chetan-chadha&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![chetan-chadha GitHub stats](https://github-readme-stats.vercel.app/api?username=chetan-chadha&theme=algolia)](https://github.com/chetan-chadha/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-chadha&theme=algolia)](https://github.com/chetan-chadha/github-readme-stats) 
 
 <br>
 
@@ -57,7 +57,7 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=chetan-chadha&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Chetan's github activity graph](https://activity-graph.herokuapp.com/graph?username=chetan-chadha&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/chetan-chadha/github-readme-activity-graph)
 
 ---
 
